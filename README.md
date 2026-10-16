@@ -1,4 +1,4 @@
-# AI-Analyst-RAG-System
+# Generative AI - Business Intelligence System
 RAG-based AI Business Analyst using SQL, FAISS, LangChain and Llama 3.3 70B
 # AI Analyst – RAG-Based Business Intelligence System
 
